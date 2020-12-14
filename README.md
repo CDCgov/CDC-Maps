@@ -1,3 +1,5 @@
+**NOTE: This codebase is now located at https://github.com/CDCgov/cdc-open-viz/tree/master/packages/cdc-maps**
+
 # @cdc/map
 
 `<CdcMap />` is a React component for visualizing your data on a map of the United States. This was built for the Centers for Disease Control and Prevention's internal use and has been open sourced. There is support for filtering, toggling, numeric and categorical mapping as well as many other visual configuration options like color schemes. It can be used standalone or in conjunction with the larger CDC Open Visualization framework.
